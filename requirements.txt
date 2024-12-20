@@ -1,0 +1,5 @@
+streamlit
+PIL
+dotenv
+os 
+google
