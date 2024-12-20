@@ -13,6 +13,7 @@ st.title("AI-Homework-Helper")
 # Input for the Gemini API key
 google_api_key = st.text_input("Enter your Gemini API Key", type="password")
 if not google_api_key:
+    st.write("Get your API key: https://aistudio.google.com/apikey")
     st.warning("Please enter your Gemini API key to proceed.")
     st.stop()
 
