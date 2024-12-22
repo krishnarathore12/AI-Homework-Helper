@@ -1,6 +1,6 @@
 # AI-Homework-Helper
 
-AI-Homework-Helper is a Streamlit-based application designed to assist with homework-related queries by utilizing the Gemini GenAI API. This tool takes user input in the form of text and images and provides an approach to solving the given problem. If the tool cannot determine an approach, it will provide a direct answer to the problem.
+AI-Homework-Helper is a Streamlit-based application designed to assist with homework-related queries by utilizing the Gemini GenAI API. This tool takes user input in the form of text and images and provides an approach to solving the given problem. If the student cannot determine an solution using approach, it will provide a direct answer to the problem.
 
 ## Features
 
